@@ -1,0 +1,70 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red53\green53\blue53;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab560
+\pard\pardeftab560\slleading20\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf2 \
+\pard\pardeftab560\slleading20\partightenfactor0
+
+\b \cf2 1. Newton Second Law\
+\pard\pardeftab560\slleading20\pardirnatural\partightenfactor0
+
+\b0 \cf2 \
+//store "m" with 600 kg\
+//store "a" with 2 m/s2\
+//store "\uc0\u931 F" without any value in NEWTON\
+//CALCULATE "m" times "a"\
+//SET "\uc0\u931 F" value with calculation result\
+//DISPLAY "1200 NEWTON"\
+\
+\pard\pardeftab560\slleading20\partightenfactor0
+
+\b \cf2 2. Tahun Kabisat\
+\pard\pardeftab560\slleading20\pardirnatural\partightenfactor0
+
+\b0 \cf2 \
+//store \'93year\'94 with number value\
+//calculate \'93year\'94 mod 4 mod100 mod400\
+//if "count" equals to 0\
+    //display "kabisat"\
+//else\
+    //display "non-kabisat"\
+//calculate \'93year\'94 mod 4 and mod 100\
+//if "count" equals to > 0\
+    //display "kabisat"\
+//else\
+    //display "non-kabisat"\
+\
+\pard\pardeftab560\slleading20\partightenfactor0
+
+\b \cf2 3. Laundry Day\
+\pard\pardeftab560\slleading20\pardirnatural\partightenfactor0
+
+\b0 \cf2 \
+//store \'93dirty clothes\'94 with 20\
+//while \'93dirty clothes\'94 < 0\
+//subtract \'93dirty clothes\'94 by 1\
+//if \'93dirty clothes\'94 < 0\
+	//display \'93not all yet\'94\
+//if \'93dirty clothes\'94 equals to 0\
+	//do \'93start\'94\
+\
+\pard\pardeftab560\slleading20\partightenfactor0
+
+\b \cf2 4. Periksa Kuku\
+\pard\pardeftab560\slleading20\pardirnatural\partightenfactor0
+
+\b0 \cf2 \
+//store \'93student\'94 with 40\
+//store \'93nails\'94 with number value in mm\
+//while \'93student\'94 > 0\
+	//do \'93periksa kuku anak-anak\'94\
+//if \'93nails\'94 equals to 0 mm\
+	//do \'93say : anak pinter\'94\
+//else\
+	//do \'93hukum\'94\
+//if \'93student\'94 equals to 0\
+	//do \'93do next task\'94\
+}
